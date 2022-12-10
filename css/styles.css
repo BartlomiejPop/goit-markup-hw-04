@@ -100,6 +100,10 @@ body {
     color: var(--black-color);
 }
 
+.header-icon {
+    vertical-align: middle;
+}
+
 .logo-first-color {
     color: var(--hover-color);
 }
