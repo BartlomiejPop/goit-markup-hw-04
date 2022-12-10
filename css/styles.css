@@ -124,6 +124,14 @@ body {
     color: var(--hover-color);
 }
 
+.top-contacts header-icon:hover::after .header-icon {
+    fill: var(--hover-color);
+}
+
+.top-contacts header-icon:focus::after .header-icon {
+    fill: var(--hover-color);
+}
+
 /* <main> */
 
 .negative-margin-top {
