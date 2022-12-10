@@ -190,6 +190,11 @@ body {
     margin-left: 30px;
 }
 
+.article-icon {
+    margin-bottom: 30px;
+    background-color: var(--team-presentation);
+}
+
 .articles h3 {
     font-weight: 700;
     font-size: 14px;
