@@ -87,7 +87,6 @@ body {
     letter-spacing: 0.02em;
 
     color: var(--white-grey-text);
-    fill: var(--hover-color);
 }
 
 .header-container .top-contacts a:hover {
@@ -142,7 +141,9 @@ body {
 .slogan {
     list-style: none;
 
-    background-color: var(--dark-grey-background);
+    background-image: url(../images/overlay.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
 }
 
 .slogan h1 {
