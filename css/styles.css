@@ -93,6 +93,10 @@ body {
     fill: var(--hover-color);
 }
 
+.header-container .top-contacts a:focus {
+    fill: var(--hover-color);
+}
+
 .logo {
     text-decoration: none;
     font-family: 'Raleway';
