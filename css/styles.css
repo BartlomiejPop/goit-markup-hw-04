@@ -102,6 +102,7 @@ body {
 
 .header-icon {
     vertical-align: middle;
+    margin-right: 10px;
 }
 
 .logo-first-color {
@@ -114,8 +115,8 @@ body {
 
 .top-links a:hover,
 .top-links a:focus,
-.top-contacts a:hover,
-.top-contacts a:focus,
+.top-contacts header-icon:hover,
+.top-contacts header-icon:focus,
 .main-link a:hover,
 .main-link a:focus,
 .business-address a:hover,
