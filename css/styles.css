@@ -115,21 +115,13 @@ body {
 
 .top-links a:hover,
 .top-links a:focus,
-.top-contacts header-icon:hover,
-.top-contacts header-icon:focus,
+.top-contacts a:hover,
+.top-contacts a:focus,
 .main-link a:hover,
 .main-link a:focus,
 .business-address a:hover,
 .business-address a:focus {
     color: var(--hover-color);
-}
-
-.top-contacts header-icon:hover::after .header-icon {
-    fill: var(--hover-color);
-}
-
-.top-contacts header-icon:focus::after .header-icon {
-    fill: var(--hover-color);
 }
 
 /* <main> */
