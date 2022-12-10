@@ -89,11 +89,6 @@ body {
     color: var(--white-grey-text);
 }
 
-.header-icon {
-    display: flex;
-    align-self: center;
-}
-
 .logo {
     text-decoration: none;
     font-family: 'Raleway';
