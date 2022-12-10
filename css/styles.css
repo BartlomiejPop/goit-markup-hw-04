@@ -87,6 +87,7 @@ body {
     letter-spacing: 0.02em;
 
     color: var(--white-grey-text);
+    fill: var(--hover-color);
 }
 
 .header-container .top-contacts a:hover {
