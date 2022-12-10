@@ -89,6 +89,10 @@ body {
     color: var(--white-grey-text);
 }
 
+.header-container .top-contacts a:hover {
+    fill: var(--hover-color);
+}
+
 .logo {
     text-decoration: none;
     font-family: 'Raleway';
