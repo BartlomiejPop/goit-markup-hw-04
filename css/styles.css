@@ -316,7 +316,7 @@ body {
 }
 
 .social-media svg {
-    fill: currentColor;
+    fill: var(--svg-icon-color);
 }
 
 .social-media svg:hover {
