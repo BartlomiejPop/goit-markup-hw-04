@@ -192,6 +192,8 @@ body {
 
 .article-icon {
     padding: auto;
+    display: flex;
+    justify-content: center;
 
     margin-bottom: 30px;
     background-color: var(--team-presentation);
