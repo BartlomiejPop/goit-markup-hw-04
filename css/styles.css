@@ -260,7 +260,7 @@ body {
     list-style: none;
 }
 
-.team-members li {
+.team-members > li {
     display: inline-flex;
 
     background-color: var(--white-color);
