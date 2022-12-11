@@ -341,6 +341,7 @@ body {
 
 .client-list svg {
     border-radius: 4px;
+    fill: var(--svg-icon-color);
 }
 
 .client-list li:hover {
