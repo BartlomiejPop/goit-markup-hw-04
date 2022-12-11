@@ -313,9 +313,6 @@ body {
     gap: 10px;
 }
 
-.social-media li:nth-child(n + 2) {
-}
-
 .our-clients h2 {
     font-weight: 700;
     font-size: 36px;
@@ -328,12 +325,13 @@ body {
 
 .client-list {
     margin-top: 50px;
+    gap: 30px;
     list-style: none;
     display: flex;
 }
 
-.client-list li:nth-child(n + 2) {
-    margin-left: 30px;
+.client-list svg {
+    border-radius: 4px;
 }
 
 /* footer */
