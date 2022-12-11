@@ -146,7 +146,7 @@ body {
 .slogan {
     list-style: none;
 
-    background-image: url(../images/overlay.jpg);
+    background-image: url(../images/img-overlay-grey.png), url(../images/overlay.jpg);
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
