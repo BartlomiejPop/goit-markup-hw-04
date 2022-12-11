@@ -387,6 +387,36 @@ footer a,
     color: rgba(255, 255, 255, 0.6);
 }
 
+.footer-social-media {
+    margin-left: 70px;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+
+    list-style: none;
+}
+
+.fitting-width {
+    width: fit-content;
+}
+
+.position-adjust {
+    margin-left: 70px;
+    padding-top: 12px;
+}
+
+.position-adjust ul {
+    margin-top: 20px;
+}
+
+.position-adjust svg {
+    fill: var(--white-color);
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+}
+
 .no-decoration {
     text-decoration: none;
 }
