@@ -315,6 +315,12 @@ body {
     list-style: none;
 }
 
+.social-media:hover {
+    cursor: pointer;
+    color: var(--hover-color);
+    fill: var(--white-color);
+}
+
 .our-clients h2 {
     font-weight: 700;
     font-size: 36px;
