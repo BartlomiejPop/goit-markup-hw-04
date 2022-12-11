@@ -336,6 +336,10 @@ body {
     border-radius: 4px;
 }
 
+.grey-color {
+    fill: var(--svg-icon-color);
+}
+
 /* footer */
 
 .bottom-links {
