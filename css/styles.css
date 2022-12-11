@@ -315,11 +315,6 @@ body {
     list-style: none;
 }
 
-.social-media svg,
-.client-list svg {
-    fill: var(--svg-icon-color);
-}
-
 .social-media svg:hover {
     cursor: pointer;
     fill: var(--white-color);
