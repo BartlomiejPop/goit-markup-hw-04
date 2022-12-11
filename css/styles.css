@@ -315,10 +315,11 @@ body {
     list-style: none;
 }
 
-.social-media li:hover {
+.social-media svg:hover {
     cursor: pointer;
-    color: var(--hover-color);
     fill: var(--white-color);
+    border-radius: 50%;
+    background-color: var(--hover-color);
 }
 
 .our-clients h2 {
