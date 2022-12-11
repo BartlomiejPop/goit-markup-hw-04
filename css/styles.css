@@ -317,7 +317,7 @@ body {
 
 .social-media svg:hover {
     cursor: pointer;
-    background-color: var(--hover-color);
+    color: var(--hover-color);
     fill: var(--white-color);
 }
 
