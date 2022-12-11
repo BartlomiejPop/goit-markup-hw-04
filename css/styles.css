@@ -315,7 +315,7 @@ body {
     list-style: none;
 }
 
-.social-media svg:hover {
+.social-media use:hover {
     cursor: pointer;
     color: var(--hover-color);
     fill: var(--white-color);
