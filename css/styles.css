@@ -315,7 +315,7 @@ body {
     list-style: none;
 }
 
-.social-media svg {
+.social-media li {
     fill: var(--svg-icon-color);
 }
 
