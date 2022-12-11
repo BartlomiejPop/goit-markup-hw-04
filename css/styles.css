@@ -12,6 +12,7 @@
     --white-grey-text: #757575;
     --black-color: #000000;
     --team-presentation: #f5f4fa;
+    --svg-icon-color: #AFB1B8;
 }
 
 body {
@@ -307,10 +308,11 @@ body {
 }
 
 .social-media {
-    justify-content: center;
-
     display: flex;
+    justify-content: center;
     gap: 10px;
+
+    list-style: none;
 }
 
 .our-clients h2 {
@@ -332,6 +334,7 @@ body {
 
 .client-list svg {
     border-radius: 4px;
+    color:var(--svg-icon-color))
 }
 
 /* footer */
