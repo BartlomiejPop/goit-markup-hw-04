@@ -333,10 +333,7 @@ body {
 }
 
 .client-list svg {
-    padding: 32px 16px;
-
     border-radius: 4px;
-    fill: var(--svg-icon-color);
 }
 
 /* footer */
