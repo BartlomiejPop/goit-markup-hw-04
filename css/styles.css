@@ -350,11 +350,7 @@ body {
 
 .client-list svg {
     border-radius: 4px;
-    fill: var(--svg-icon-color);
-}
-
-.client-list li {
-    --color: var(--svg-icon-color);
+    outline-color: var(--svg-icon-color);
 }
 
 .client-list svg:hover,
