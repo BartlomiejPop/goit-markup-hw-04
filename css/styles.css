@@ -352,7 +352,7 @@ body {
 
 .client-list a:hover,
 .client-list a:focus {
-    color: var(--hover-color);
+    fill: var(--hover-color);
     outline-color: var(--hover-color);
     cursor: pointer;
 }
