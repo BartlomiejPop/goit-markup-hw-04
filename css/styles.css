@@ -344,14 +344,14 @@ body {
     display: flex;
 }
 
-.client-list li {
+.client-list a {
     border-radius: 4px;
     outline: 1px solid var(--svg-icon-color);
     color: var(--svg-icon-color);
 }
 
-.client-list li:hover,
-.client-list li:focus {
+.client-list a:hover,
+.client-list a:focus {
     color: var(--hover-color);
     outline-color: var(--hover-color);
     cursor: pointer;
