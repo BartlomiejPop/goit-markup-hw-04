@@ -337,6 +337,10 @@ body {
     color: var(--text-color);
 }
 
+.client {
+    fill: var(--hover-color);
+}
+
 .client-list {
     margin-top: 50px;
     gap: 30px;
