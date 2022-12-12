@@ -359,7 +359,7 @@ body {
 
 .client-list li:hover,
 .client-list li:focus {
-    --color1: var(--hover-color);
+    fill: var(--hover-color);
     cursor: pointer;
 }
 
