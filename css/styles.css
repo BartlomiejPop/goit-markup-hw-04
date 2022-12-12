@@ -315,12 +315,7 @@ body {
     list-style: none;
 }
 
-.social-media svg {
-    display: block;
-}
-
 .social-media a {
-    display: block;
     fill: var(--svg-icon-color);
 }
 
