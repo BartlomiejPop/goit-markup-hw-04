@@ -359,6 +359,7 @@ body {
 
 .client-list svg {
     fill: var(--svg-icon-color);
+    color: var(--svg-icon-color);
 }
 
 /* footer */
