@@ -357,6 +357,10 @@ body {
     cursor: pointer;
 }
 
+.client-list svg {
+    fill: var(--svg-icon-color);
+}
+
 /* footer */
 
 .bottom-links {
