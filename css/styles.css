@@ -319,8 +319,8 @@ body {
     fill: var(--svg-icon-color);
 }
 
-.social-media a:hover,
-.social-media a:focus {
+.social-media-icon:focus,
+.social-media-icon:hover {
     cursor: pointer;
     fill: var(--white-color);
     border-radius: 50%;
