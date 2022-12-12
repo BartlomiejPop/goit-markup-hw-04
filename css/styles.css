@@ -348,9 +348,10 @@ body {
     display: flex;
 }
 
-.client-list svg {
+.client-list li {
     border-radius: 4px;
-    outline-color: var(--svg-icon-color);
+    outline: 1px solid var(--svg-icon-color);
+    color: var(--svg-icon-color);
 }
 
 .client-list svg:hover,
