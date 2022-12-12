@@ -357,9 +357,10 @@ body {
     --color: var(--svg-icon-color);
 }
 
-.client-list li:hover,
-.client-list li:focus {
-    fill: var(--hover-color);
+.client-list svg:hover,
+.client-list svg:focus {
+    color: var(--hover-color);
+    outline-color: var(--hover-color);
     cursor: pointer;
 }
 
